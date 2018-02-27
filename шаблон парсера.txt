@@ -1,0 +1,99 @@
+
+<table>
+<tr>
+	<td><strong></strong></td>
+	<td><strong></strong></td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+</tr>
+</table>
+
+
+</strong></p><p><sup><strong>Уровень:</strong>
+</sup></p><p><sup><strong>Компоненты:</strong>
+</sup></p><p><sup><strong>Время сотворения:</strong>
+</sup></p><p><sup><strong>Дальность:</strong>
+Расстояние:
+</sup></p><p><sup><strong>Цель:</strong>
+Цели:
+</sup></p><p><sup><strong>Продолжительность:</strong>
+</sup></p><p><sup><strong>Спасбросок:</strong>
+Спасброски:
+</sup></p><p><sup><strong>Сопротивление магии:</strong>
+Сопротивляемость магии:  
+Сопротивляемость:
+</sup></p><p><sup><strong>Область эффекта:</strong>
+Область эффекта или цель:
+Область действия:
+Область:
+</sup></p><p><sup><strong>Эффект:</strong>
+Результат:
+<emphasis>Материальный компонент:</emphasis>
+Магический материальный компонент:
+<emphasis>Фокус:</emphasis>
+<emphasis>Обратите внимание:</emphasis>
+<emphasis>Стоимость в XP:</emphasis>
+Опыт:
+<emphasis>Примечание:</emphasis>
+<emphasis>Внимание:</emphasis>
+
+
+<emphasis>
+<strong>
+
+
+</p></title><p><strong>Чары
+</p></title><p><strong>Универсальное
+</p></title><p><strong>Трансмутация
+</p></title><p><strong>Созидание
+</p></title><p><strong>Прорицание
+</p></title><p><strong>Ограждение
+</p></title><p><strong>Некромантия
+</p></title><p><strong>Иллюзия
+</p></title><p><strong>Вызов
+
+(</p></title><p><strong>
+(
+
+/////////////////////////////
+
+
+</section>
+<section><title><p>
+
+</sup></p><p>
+
+<p>
+
+
+
+
+////////////////
+
+
+. \r
+.\r
+
+
+.\r\n\r
+.\r</section>\r<section><title><p>
+
+
+\r\n\r
+</sup></p><p>
+
+
+.\r
+.</p><p>\r
+
+
+<p>\r</section>
+\r</section>
+
+
+</section>\r<section>
+</section>\r\n\r<section>
+
+
