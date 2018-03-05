@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>ref_ref</genre>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <book-title>Книга для заклинаний</book-title>
+   <annotation>
+    <p>Некоторые сокращения:</p>
+    <p>V - вербальное, требует произнесения магических формул и заклинаний.</p>
+    <p>S - соматическое, требует различных магических пассов и движений.</p>
+    <p>M - материальный компонент, требуется для сотворения заклинания, расходуется после применения.</p>
+    <p>F - фокус, компонент на котором будет концентрироваться заклинание, как правило НЕ расходуется после применения.</p>
+    <p>DF - фокус на божественном символе. В основном используется кастерами с божественными заклинаниями. Иногда встречаются варианты F/DF, M/DF , в этом случае кастер сам определяет, что из вариантов он будет использовать - первый вариант или фокус на божественном символе.</p>
+    <p>(П) - возможность прервать заклинание по желанию кастера.</p>
+   </annotation>
+   <keywords>dnd</keywords>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+   <translator>
+    <first-name>Dmitry</first-name>
+    <last-name>Balamut</last-name>
+   </translator>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Alex</first-name>
+    <last-name>Farmagej</last-name>
+    <nickname>Scorpionsik</nickname>
+    <email>scorpionsik@gmail.com</email>
+   </author>
+   <program-used>FictionBook Editor Release 2.6.7</program-used>
+   <date value="2014-11-10">10 November 2014</date>
+   <id>BEAD9329-BA48-40B4-B835-063AB863EF48</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла</p>
+   </history>
+  </document-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Информация о книге</p>
+   </title>
+   <p>Это обтянутая кожей книга содержит в себе 100 страниц пергамента, и она является самой обычным хранилищем заклинаний среди большинства магов. </p>
+   <p><strong>Принадлежит:</strong></p>
+   <p><strong>Избранные школы:</strong></p>
+   <p><strong>Запрещенные школы:</strong></p>
+   <p><strong>Нельзя вписать в книгу школы:</strong></p>
+   <empty-line/>
+   <subtitle><strong>Использовано страниц:</strong> 0/100</subtitle>
+   <p>- Каждое заклинание занимает по две страницы за свой уровень;</p>
+   <p>- Для фокусов (0 уровень) достаточно одной страницы;</p>
+   <p>- Чтобы вписать в книгу заклинание, необходимо потратить по 10 золотых за каждую страницу (на чернила и прочие расходники). </p>
+  </section>
+  <section>
+   <title>
+    <p>0 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>1 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+ </body>
+</FictionBook>
