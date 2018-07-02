@@ -48,10 +48,10 @@
     <p>Информация о книге</p>
    </title>
    <p>Это обтянутая кожей книга содержит в себе 100 страниц пергамента, и она является самой обычным хранилищем заклинаний среди большинства магов. </p>
-   <p><strong>Принадлежит:</strong></p>
+   <p><strong>Владелец:</strong></p>
    <p><strong>Избранные школы:</strong></p>
    <p><strong>Запрещенные школы:</strong></p>
-   <p><strong>Нельзя вписать в книгу школы:</strong></p>
+   <p><strong>Нельзя вписать в книгу:</strong></p>
    <empty-line/>
    <subtitle><strong>Использовано страниц:</strong> 0/100</subtitle>
    <p>- Каждое заклинание занимает по две страницы за свой уровень;</p>
@@ -72,6 +72,94 @@
   <section>
    <title>
     <p>1 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>2 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>3 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>4 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>5 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>6 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>7 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>8 уровень</p>
+   </title>
+   <section>
+    <title>
+     <p>Записи с заклинаниями</p>
+    </title>
+    <p><strong>Временная закладка</strong></p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>9 уровень</p>
    </title>
    <section>
     <title>
