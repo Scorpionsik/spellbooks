@@ -2233,7 +2233,7 @@
      <p><strong>Геккон:</strong> Вы получаете бонус +4 на проверки Бесшумного перемещения.</p>
      <p><emphasis>Материальный компонент:</emphasis> Частица животного.</p>
     </section>
-    <section>
+    <section id="greater_magic_weapon">
      <title>
       <p>Большое Волшебное Оружие (Greater Magic Weapon) </p>
      </title>
