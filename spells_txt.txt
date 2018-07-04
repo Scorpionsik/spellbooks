@@ -16678,7 +16678,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Регенерация (Regenerate)
+Регенерация (Regenerate)#regenerate
 </p></title><p><strong>Вызов (Лечение)
 </strong></p><p><sup><strong>Уровень:</strong> Священник 7, Лечение 7
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -18975,7 +18975,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Слабоумие (Feeblemind)
+Слабоумие (Feeblemind)#feeblemind
 	</p></title><p><strong>Чары (Принуждение) (Действующее на разум)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 5
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
