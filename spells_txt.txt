@@ -1062,7 +1062,7 @@
 </section>
 
 <section><title><p>
-Луч Холода (Ray of Frost)
+Луч Холода (Ray of Frost)#ray_of_frost
 </p></title><p><strong>Вызов (Созидание) (Холод)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 0
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -11225,7 +11225,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Превратить Грязь в Камень (Transmute Mud to Rock)
+Превратить Грязь в Камень (Transmute Mud to Rock)#transmute_mud_to_rock
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Друид 5, Колдун/маг 5
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
@@ -11268,7 +11268,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Превратить Камень в Землю (Transmute Rock to Mud)
+Превратить Камень в Грязь (Transmute Rock to Mud)#transmute_rock_to_mud
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Друид 5, Колдун/маг 5
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
