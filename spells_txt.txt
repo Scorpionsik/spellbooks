@@ -5030,7 +5030,7 @@ Hit Dice: 1d10+20 (27 hp)
 </section>
 
 <section><title><p>
-Нетленные Останки (Gentle Repose)
+Нетленные Останки (Gentle Repose)#gentle_repose
 	</p></title><p><strong>Некромантия
 </strong></p><p><sup><strong>Уровень:</strong> Священник 2, Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
@@ -6786,7 +6786,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Огненный Щит (Fire Shield)
+Огненный Щит (Fire Shield)#fire_shield
 </p></title><p><strong>Созидание (Огонь или Холод)
 </strong></p><p><sup><strong>Уровень:</strong> Огонь 5, Колдун/маг 4, Солнце 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
@@ -17772,7 +17772,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Создать Яму (Create Pit)
+Создать Яму (Create Pit)#create_pit
 </p></title><p><strong>Созидание [Создание]
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 2, Призыватель 2
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
