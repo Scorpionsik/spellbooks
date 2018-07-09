@@ -2108,7 +2108,7 @@ Hit Dice: 1d10+20 (27 hp)
 </section>
 
 <section><title><p>
-Массовое Предложение (Mass Suggestion)
+Массовое Предложение (Mass Suggestion)#mass_suggestion
 </p></title><p><strong>Чары (Принуждение) (Действующее на разум, Языковое) 	
 </strong></p><p><sup><strong>Уровень:</strong> Бард 6, Колдун/маг 6
 </sup></p><p><sup><strong>Дальность:</strong> Средняя (100 футов + 10 футов/уровень) 
@@ -4065,7 +4065,7 @@ Hit Dice: 1d10+20 (27 hp)
 </section>
 
 <section><title><p>
-Нанесение Легких Ран (Inflict Light Wounds)
+Нанесение Легких Ран (Inflict Light Wounds)#inflict_light_wounds
 </p></title><p><strong>Некромантия
 </strong></p><p><sup><strong>Уровень:</strong> Священник 1, Разрушение 1
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -9114,7 +9114,7 @@ d%	Эффект
 </section>
 
 <section><title><p>
-Перст Смерти (Finger of Death)
+Перст Смерти (Finger of Death)#finger_of_death
 </p></title><p><strong>Некромантия (Смерть)
 </strong></p><p><sup><strong>Уровень:</strong> Друид 8, Колдун/маг 7
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
