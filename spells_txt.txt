@@ -17877,7 +17877,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Солнечный Свет (Lesser Day of the Sun)
+Солнечный Свет (Lesser Day of the Sun)#lesser_day_of_the_sun
 </p></title><p><strong>Созидание [Свет]
 </strong></p><p><sup><strong>Уровень:</strong> Бард 5, Священник 5, Колдун/Маг 5
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
