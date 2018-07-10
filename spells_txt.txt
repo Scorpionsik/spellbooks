@@ -5157,7 +5157,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Обнаружить Яд (Detect Poison)
+Обнаружить Яд (Detect Poison)#detect_poison
 </p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Священник 0, Друид 0, Паладин 1, Колдун/маг 0
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -7298,7 +7298,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Очищение Пищи и Питья (Purify Food and Drink)
+Очищение Пищи и Питья (Purify Food and Drink)#purify_food_and_drink
 </p></title><p><strong>Универсальное
 </strong></p><p><sup><strong>Уровень:</strong> Священник 0, Друид 0
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -7632,7 +7632,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Пелена (Obscuring Mist)
+Пелена (Obscuring Mist)#obscuring_mist
 </p></title><p><strong>Вызов (Созидание)
 </strong></p><p><sup><strong>Уровень:</strong> Воздух 1, Священник 1, Друид 1, Колдун/маг 1, Вода 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -8407,7 +8407,7 @@ HD	Эффект
 </section>
 
 <section><title><p>
-Планарный Якорь (Dimensional Anchor)
+Планарный Якорь (Dimensional Anchor)#dimensional_anchor
 </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Священник 4, Колдун/маг 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -9295,7 +9295,7 @@ XP Стоимость: 25 опыта.</p>
 </section>
 
 <section><title><p>
-Помощь (Aid)
+Помощь (Aid)#aid
 </p></title><p><strong>Чары (Принуждение)
 </strong></p><p><sup><strong>Уровень:</strong> Священник 2, Добро 2, Удача 2
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -12186,7 +12186,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Провал в Памяти (Forget)
+Провал в Памяти (Forget)#forget
 </p></title><p><strong>Чары [Влияющее на разум]
 </strong></p><p><sup><strong>Уровень:</strong> Ассасин 1, Колдун/маг 2
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -22766,7 +22766,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Шар Неуязвимости (Globe of Invulnerability)
+Шар Неуязвимости (Globe of Invulnerability)#globe_of_invulnerability
 	</p></title><p><strong>Ограждение
 	</strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 6</sup></p><p>
 Как малый шар неуязвимости, за исключением того, что исключает также заклинания и магические эффекты 4-го уровня.</p>
@@ -23599,7 +23599,7 @@ Hit Dice	1d12+3 (9 хитов)	2d12+3 (16 хитов)	4d12+3 (29 хитов)
 </sup></p><p><sup><strong>Сопротивление магии:</strong> Да </sup></p><p>
 Это заклинание производит облако тумана, схожего с облаком тумана и смертельным облаком, за исключением того, что оно имеет тёмно-зелёный цвет. Это облако убивает любое существо с 6 или менее HD (без спасброска) и заставляет существ с большим количеством HD совершить спасбросок на Телосложение или умереть. Те, кто удачно совершил свой спасбросок, получаю 1d6 урона ядом + 1 за уровень заклинателя (с максимумом до +20) за каждый раунд, пока они остаются в ядовитом облаке.</p><p>
 Как и облако смерти ядовитое облако двигается от вас со скоростью 10 футов в раунд. Облако тяжелее воздуха, и всегда будет искать более низкую точку для перемещения, даже заливая маленькие дырочки и трещины. Также туман может двигаться через воду с этой же скоростью, но при этом не может быть сотворено под водой.  </sup></p><p>
-Языки (Tongues)
+Языки (Tongues)#tongues
 </p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Бард 2, Священник 4, Колдун/маг 3
 	</sup></p><p><sup><strong>Компоненты:</strong> V, М/DF
