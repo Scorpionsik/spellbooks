@@ -2362,7 +2362,7 @@
 </section>
 
 <section><title><p>
-Обнаружить Магическое Наблюдение (Detect Scrying)
+Обнаружить Магическое Наблюдение (Detect Scrying)#detect_scrying
 </p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Бард 4, Колдун/маг 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -9908,7 +9908,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Проклятие Ликаона (Lycaeonia Curse)
+Проклятие Ликаона (Lycaeonia Curse)#lycaeonia_curse
 </p></title><p><strong>Трансмутация 
 </strong></p><p><sup><strong>Уровень:</strong> Священник 4, Друид 4, Следопыт 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -15206,7 +15206,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Стирание (Erase)
+Стирание (Erase)#erase
 	</p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Бард 1, Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -20020,7 +20020,7 @@ CR	Сила
 		</sup></p><p><sup><strong>Сопротивление магии:</strong> Нет</sup></p><p>
 Вы может заставить свой голос (речь и любые звуки, которые вы можете издавать)  звучать из другого места (из другого существа, из статуи, из-за двери или из глубины туннеля). Вы можете говорить на любом известном вам языке. Внимательный слушатель, сделавший успешный спасбросок, понимает, что звук иллюзорен, но все равно слышит его.</p><p>
 <emphasis>Фокус:</emphasis> Маленький пергаментный рупор</sup></p><p>
-Чтение Магии (Read Magic)
+Чтение Магии (Read Magic)#read_magic
 </p></title><p><strong>Универсальное
 </strong></p><p><sup><strong>Уровень:</strong> Бард 0, Священник 0, Друид 0, Паладин 1, Следопыт 1, Колдун/маг 0
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, F
