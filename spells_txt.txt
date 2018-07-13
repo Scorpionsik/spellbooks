@@ -10038,7 +10038,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-</p></title><p><strong>Прорицание (Divination)
+Прорицание (Divination)
 </p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Священник 4, Знание 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -11650,7 +11650,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Рост Растений (Plant Growth)
+Рост Растений (Plant Growth)#plant_growth
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Друид 3, Растения 3, Следопыт 3
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -12332,7 +12332,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Святилище (Sanctuary)
+Святилище (Sanctuary)#sanctuary
 		</p></title><p><strong>Ограждение
 		</strong></p><p><sup><strong>Уровень:</strong> Священник 1, Защита 1
 		</sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -12457,7 +12457,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Сглаз (Bane)
+Сглаз (Bane)#bane
 	</p></title><p><strong>Чары (Принуждение) (Действующее на разум)
 	</strong></p><p><sup><strong>Уровень:</strong> Священник 1
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
