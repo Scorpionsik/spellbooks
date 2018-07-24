@@ -12857,7 +12857,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Силовая Волна (Force Wave)
+Силовое Поле (Force Field)
 </p></title><p><strong>Созидание [Сила]
 </strong></p><p><sup><strong>Уровень:</strong> Ассасин 4, Колдун/маг 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
@@ -12872,7 +12872,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Силовая Волна (Force Wave)
+Силовая Волна (Force Wave)#force_wave
 </p></title><p><strong>Созидание [Сила]
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
@@ -17335,7 +17335,7 @@ HD	Эффект
 </section>
 
 <section><title><p>
-Увеличение (Enlarge)
+Увеличение (Enlarge)#enlarge
 	</p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -20645,7 +20645,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Экран (Screen)
+Экран (Screen)#screen
 		Иллюзии (Мороки)
 		</strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 8, Обман 7
 		</sup></p><p><sup><strong>Компоненты:</strong> V, S
