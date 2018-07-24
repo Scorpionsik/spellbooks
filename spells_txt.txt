@@ -934,7 +934,7 @@
 </section>
 
 <section><title><p>
-Нежное Напоминание Нибора (Nybor’s Gentle Reminder)
+Нежное Напоминание Нибора (Nybor’s Gentle Reminder)#nybor_gentle_reminder
 </p></title><p><strong>Чары (Принуждение) [Влияющее на разум]
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
@@ -4438,7 +4438,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Отражающая Маскировка (Reflective Disguise)
+Отражающая Маскировка (Reflective Disguise)#reflective_disguise
 </p></title><p><strong>Иллюзия (Морок)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 2, Колдун/маг 2
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -4527,7 +4527,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Отразить Оружие Дыхания (Repel Breath Weapon)
+Отразить Оружие Дыхания (Repel Breath Weapon)#repel_breath_weapon
 </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Священник 3, Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -4747,8 +4747,13 @@ HD	Сила ауры
 Очаровать Монстра (Charm Monster)#charm_monster
 </p></title><p><strong>Чары (Внушение) (Действующее на разум)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 3, Колдун/маг 4
+</sup></p><p><sup><strong>Компоненты:</strong> V, S
+</sup></p><p><sup><strong>Время сотворения:</strong> 1 действие
+</sup></p><p><sup><strong>Дальность:</strong> Близкая (25 футов + 5 футов/2 уровня)
 </sup></p><p><sup><strong>Цель:</strong> Одно живое существо
-</sup></p><p><sup><strong>Продолжительность:</strong> 1 день/уровень </sup></p><p>
+</sup></p><p><sup><strong>Продолжительность:</strong> 1 день/уровень
+</sup></p><p><sup><strong>Спасбросок:</strong> Воля нейтрализует
+</sup></p><p><sup><strong>Сопротивление магии:</strong> Да</sup></p><p>
 Как и 	очаровать существо, за исключением того, что это заклинание очаровывает любое существо, вне зависимости от его вида или размера.</p>
 </section>
 
@@ -9771,7 +9776,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Пройти без Следа (Pass without Trace)
+Пройти без Следа (Pass without Trace)#pass_without_trace
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Друид 1, Следопыт 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -17151,7 +17156,7 @@ HD	Эффект
 На время действия заклинания КБ цели уменьшается на 2, его скорость также уменьшается вдвое и его броски на атаки получают штраф -2. Вдобавок, каждый раунд оно получает урон 1d4; этот урон будет вдвое меньше, если существо удачно совершит спасбросок. Удачный спасбросок не повлияет на штрафы к КБ, скорости и атаке.</p><p>
 <emphasis>Материальный компонент:</emphasis> Небольшая косточка, сломанная пополам.</p><p>
  
-Тук-Тук (Knock)
+Тук-Тук (Knock)#knock
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 2
 	</sup></p><p><sup><strong>Компоненты:</strong> V

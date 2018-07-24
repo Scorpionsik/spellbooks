@@ -5457,7 +5457,7 @@
    <title>
     <p>4 уровень</p>
    </title>
-   <section>
+   <section id="adaptation">
     <title>
      <p>Адаптация (Adaptation) </p>
     </title>
@@ -10147,7 +10147,7 @@
      </tr>
     </table>
    </section>
-   <section>
+   <section id="anathema">
     <title>
      <p>Анафема (Anathema) </p>
     </title>
