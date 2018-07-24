@@ -12872,7 +12872,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Силовая Волна (Force Wave)#force_wave
+Силовая Волна (Force Wave)
 </p></title><p><strong>Созидание [Сила]
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
