@@ -9590,7 +9590,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Пробивной Выстрел (Heartseeking Shot)
+Пробивной Выстрел (Heartseeking Shot)#heartseeking_shot
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 6
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
