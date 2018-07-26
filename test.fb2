@@ -97,73 +97,6 @@
    <title>
     <p>Верстка</p>
    </title>
-   <section>
-    <title>
-     <p>Магическая Атака (Magic Attack) </p>
-    </title>
-    <p><strong>Трансмутация </strong></p>
-    <p><sup><strong>Уровень:</strong> Колдун/маг 1 </sup></p>
-    <p><sup><strong>Компоненты:</strong> V, S </sup></p>
-    <p><sup><strong>Время сотворения:</strong> 1 действие </sup></p>
-    <p><sup><strong>Дальность:</strong> Касание </sup></p>
-    <p><sup><strong>Цель:</strong> Неживое существо, которого касаются </sup></p>
-    <p><sup><strong>Продолжительность:</strong> 1 минута/уровень </sup></p>
-    <p><sup><strong>Спасбросок:</strong> Воля нейтрализует (безвредно) </sup></p>
-    <p><sup><strong>Сопротивление магии:</strong> Да (безвредно)</sup></p>
-    <p>Это заклинание дает одному естественному оружию неживого существа, вроде нежити или конструкта, бонус +1 к броскам атаки и урона. Заклинание может влиять на атаку лапами, кулаками, зубами или другим естественным оружием. Заклинание не действует на большинство големов из-за их магического иммунитета.</p>
-   </section>
-   <section>
-    <title>
-     <p>Магическая Согласованность (Arcane Concordance) </p>
-    </title>
-    <p><strong>Созидание </strong></p>
-    <p><sup><strong>Уровень:</strong> Бард 3 </sup></p>
-    <p><sup><strong>Компоненты:</strong> V, S, М </sup></p>
-    <p><sup><strong>Время сотворения:</strong> 1 действие </sup></p>
-    <p><sup><strong>Дальность:</strong> Персональное </sup></p>
-    <p><sup><strong>Цель:</strong> Вы </sup></p>
-    <p><sup><strong>Область эффекта:</strong> Излучение радиусом в 10 футов, исходящее от вас </sup></p>
-    <p><sup><strong>Продолжительность:</strong> 1 раунд/уровень </sup></p>
-    <p><sup><strong>Спасбросок:</strong> Нет </sup></p>
-    <p><sup><strong>Сопротивление магии:</strong> Нет</sup></p>
-    <p>Вас окружает мерцающее синее и золотое сияние, которое усиливает магические заклинания, творимые вашими союзниками в пределах области действия заклинания. Любое магическое заклинание, сотворённое существом в области действия, получает бонус зачарования +1 к сложности любого спасброска против заклинания, и оно может быть сотворено, как если бы к нему было применено одно из следующих метамагических умений (без увеличения уровня заклинания или времени сотворения заклинания): <emphasis>Увеличить заклинание</emphasis>, <emphasis>Удлинить заклинание</emphasis>, <emphasis>Бесшумное заклинание</emphasis> или <emphasis>Неподвижное заклинание</emphasis> (вы выбираете метамагическое умение, когда вы творите магическую согласованность).</p>
-    <p><emphasis>Материальный компонент:</emphasis> Разряжённая волшебная палочка.</p>
-   </section>
-   <section>
-    <title>
-     <p>Магическая Аура Нистула (Nystul’s Magic Aura) </p>
-    </title>
-    <p><strong>Иллюзия (Мороки) </strong></p>
-    <p><sup><strong>Уровень:</strong> Колдун/маг 1 </sup></p>
-    <p><sup><strong>Компоненты:</strong> V, S, F </sup></p>
-    <p><sup><strong>Время сотворения:</strong> 1 действие </sup></p>
-    <p><sup><strong>Дальность:</strong> Касание </sup></p>
-    <p><sup><strong>Цель:</strong> Один предмет весом до 5 фунтов/уровень </sup></p>
-    <p><sup><strong>Продолжительность:</strong> 1 день/уровень </sup></p>
-    <p><sup><strong>Спасбросок:</strong> Нет (Смотрите текст) </sup></p>
-    <p><sup><strong>Сопротивление магии:</strong> Нет</sup></p>
-    <p>Вы создаете вокруг объекта фальшивую магическую ауру. Можно воссоздавать ауры магических предметов и эффекты заклинаний. К примеру, вы можете сделать так, чтобы обычный меч выглядел подобно мечу +2 или наоборот, замаскировать меч +2 под меч +1.</p>
-    <p>Если на предмет с фальшивой аурой наложено заклинание <strong><a l:href="#identify">идентификация</a></strong> или он исследован подобным образом, исследователь обнаружит, что аура – подделка, если выдержит спасбросок Воли. В противном случае он поверит в фальшивую ауру, и дальнейшие исследования ничего не дадут.</p>
-    <p>Если собственная аура предмета чрезвычайно сильна (например, это артефакт), то магическая аура Нистула не сработает.</p>
-    <p>Учтите, магическое оружие, шиты или броня должны быть мастерской работы, поэтому кустарно изготовленный меч с магической аурой будет выглядеть подозрительно.</p>
-    <p><emphasis>Фокус:</emphasis> Небольшой кусочек шелка должен быть пронесен над предметом, получающим ауру.</p>
-   </section>
-   <section>
-    <title>
-     <p>Магический Знак (Arcane Mark) </p>
-    </title>
-    <p><strong>Универсальное </strong></p>
-    <p><sup><strong>Уровень:</strong> Колдун/маг 0 </sup></p>
-    <p><sup><strong>Компоненты:</strong> V, S </sup></p>
-    <p><sup><strong>Время сотворения:</strong> 1 действие </sup></p>
-    <p><sup><strong>Дальность:</strong> Касание </sup></p>
-    <p><sup><strong>Эффект:</strong> Одна личная руна или отметка, размером не больше 1 квадратного фута </sup></p>
-    <p><sup><strong>Продолжительность:</strong> Постоянно </sup></p>
-    <p><sup><strong>Спасбросок:</strong> Нет </sup></p>
-    <p><sup><strong>Сопротивление магии:</strong> Нет</sup></p>
-    <p>Это заклинание позволяет вам написать свою персональную руну или знак, которые не должны быть выше 6 дюймов и состоять не больше чем из 6 символов. Результат может быть видимым или невидимым. Магический знак дает вам возможность вырезать руну на любом материале (даже камне или металле) без всякого вреда для него. Если был нанесен невидимый знак, то заклинание <strong><a l:href="#detect_magic">обнаружить магию</a></strong> заставляет руну светиться и быть видимой (хотя не обязательно понятой).  <strong><a l:href="#invise_purge">Очищение от невидимости</a></strong>, <strong><a l:href="#true_sight">Видение истины</a></strong> и <strong><a l:href="#arcane_sight">магическое видение</a> </strong>также позволяют видеть невидимые магические знаки. Заклинание <strong><a l:href="#read_magic">чтение магии</a></strong> показывает слова, если они есть. Метка не может быть рассеяна, но она может быть убрана наложившим ее или заклинанием <strong><a l:href="#erase">стирание</a></strong>. Если оно наложено на живое существо, то естественный износ заставит его поблекнуть через месяц.</p>
-    <p>Магический знак должен быть наложен до наложения на тот же объект <strong><a l:href="#drawmia_instant_summon">мгновенного призывания Дравмия</a></strong> (см. описание этого заклинания).</p>
-   </section>
    <section id="magic_circle_against_good">
     <title>
      <p>Магический Круг против Добра (Magic Circle against Good) </p>
@@ -340,52 +273,6 @@
     <p><sup><strong>Спасбросок:</strong> Воля нейтрализует (безвредно) </sup></p>
     <p><sup><strong>Сопротивление магии:</strong> Да (безвредно)</sup></p>
     <p>Вы наполняете субъекта магической силой, увеличивая эффект следующего творимого им заклинания. Заклинание улучшается как бы эффектом или метамагическими умениями на выбор субъекта из списка, приведённого ниже, но не более 5 ступеней эффективности. Каждый эффект может быть придан только одному заклинанию.</p>
-    <table>
-     <tr align="left">
-      <td align="left" valign="top"><strong>Эффект/Метамагическое умение</strong></td>
-      <td align="left" valign="top"><strong>Ступени эффективности</strong></td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Добавьте +1 к сложности спасброска</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Добавьте +2 к уровню заклинателя при преодолении магического сопротивления</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Усилить заклинание</td>
-      <td align="left" valign="top">2</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Увеличить заклинание</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Продлить заклинание</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Повысить уровень заклинания</td>
-      <td align="left" valign="top">Число уровней, на которое повысили заклинание (максимум 4)</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Максимизировать заклинание</td>
-      <td align="left" valign="top">3</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Ускоренное заклинание</td>
-      <td align="left" valign="top">4</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Безмолвное заклинание</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Расширить заклинание</td>
-      <td align="left" valign="top">3</td>
-     </tr>
-    </table>
     <p>Магическое вложение влияет только на заклинания – оно не имеет влияния на подобные заклинаниям и сверхъестественные способности.</p>
    </section>
    <section>
@@ -1829,28 +1716,6 @@
     <p><sup><strong>Спасбросок:</strong> Воля нейтрализует </sup></p>
     <p><sup><strong>Сопротивление магии:</strong> Да</sup></p>
     <p>Существо, на которое подействовало это заклинание, ведёт себя, как показано в следующей таблице: </p>
-    <table>
-     <tr align="left">
-      <td align="left" valign="top"><strong>1d10</strong></td>
-      <td align="left" valign="top"><strong>Поведение</strong></td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">1</td>
-      <td align="left" valign="top">Блуждает в течение 1 раунда (если не предотвращено)</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">2-6</td>
-      <td align="left" valign="top">Не делает ничего в течение 1 раунда</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">7-9</td>
-      <td align="left" valign="top">Атакует ближайшее существо в течение 1 раунда</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">10</td>
-      <td align="left" valign="top">Обычные действия в течение 1 раунда</td>
-     </tr>
-    </table>
     <p>Все существа в замешательстве, на которых нападают, автоматически отвечают на атаки в следующем ходу.</p>
    </section>
    <section>
@@ -1867,40 +1732,6 @@
     <p><sup><strong>Спасбросок:</strong> Воля нейтрализует (безвредно) </sup></p>
     <p><sup><strong>Сопротивление магии:</strong> Да (безвредно)</sup></p>
     <p>Действие подобно <strong><a l:href="#magic_invest">магическому вложению</a></strong>, за исключением того, что цель может выбирать до 27 ступеней эффективности из следующей таблицы.</p>
-    <table>
-     <tr align="left">
-      <td align="left" valign="top"><strong>Эффект/Метамагическое умение</strong></td>
-      <td align="left" valign="top"><strong>Ступени эффективности</strong></td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Добавьте +1 к сложности спасброска</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Добавьте +2 к уровню заклинателя при преодолении магического сопротивления</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Усилить заклинание</td>
-      <td align="left" valign="top">2</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Увеличить заклинание</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Продлить заклинание</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Повысить уровень заклинания</td>
-      <td align="left" valign="top">Число уровней, на которое повысили заклинание (максимум 2)</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Безмолвное заклинание</td>
-      <td align="left" valign="top">1</td>
-     </tr>
-    </table>
    </section>
    <section>
     <title>
@@ -2156,56 +1987,6 @@
     <p><sup><strong>Спасбросок:</strong> Смотри текст </sup></p>
     <p><sup><strong>Сопротивление магии:</strong> Да</sup></p>
     <p>Окружение цели становится враждебным и пытается атаковать её. Это наносит цели 2d8 урона в раунд на всё время действия заклинания с типом урона и спасброском из таблицы. Каждый раунд цель должна совершать новый спасбросок.</p>
-    <table>
-     <tr align="left">
-      <td align="left" valign="top"><strong>Окружение</strong></td>
-      <td align="left" valign="top"><strong>Эффект</strong></td>
-      <td align="left" valign="top"><strong>Тип урона</strong></td>
-      <td align="left" valign="top"><strong>Спасбросок</strong></td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Арктическое/тундра</td>
-      <td align="left" valign="top">Снег и лёд окружают цель, морозя её</td>
-      <td align="left" valign="top">Холод</td>
-      <td align="left" valign="top">Телосложение уменьшает вдвое</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Болота/топи</td>
-      <td align="left" valign="top">Облако газа окружает цель</td>
-      <td align="left" valign="top">Огонь</td>
-      <td align="left" valign="top">Ловкость уменьшает вдвое</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Водное</td>
-      <td align="left" valign="top">Вода крутит и бьёт цель</td>
-      <td align="left" valign="top">Стрессовый</td>
-      <td align="left" valign="top">Ловкость уменьшает вдвое</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Горы/холмы</td>
-      <td align="left" valign="top">Камни и булыжники летят в цель</td>
-      <td align="left" valign="top">Обычный</td>
-      <td align="left" valign="top">Телосложение уменьшает вдвое</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Лесное</td>
-      <td align="left" valign="top">Ветви и шипы уязвляют плоть цели</td>
-      <td align="left" valign="top">Обычный</td>
-      <td align="left" valign="top">Ловкость уменьшает вдвое</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Пустынное</td>
-      <td align="left" valign="top">Горячий песок обжигает кожу цели</td>
-      <td align="left" valign="top">Огонь</td>
-      <td align="left" valign="top">Телосложение уменьшает вдвое</td>
-     </tr>
-     <tr align="left">
-      <td align="left" valign="top">Травянистое/равнина</td>
-      <td align="left" valign="top">Облако пыли удушает цель</td>
-      <td align="left" valign="top">Яд</td>
-      <td align="left" valign="top">Телосложение уменьшает вдвое</td>
-     </tr>
-    </table>
     <p><emphasis>Материальный компонент:</emphasis> Веточка шиповника.</p>
    </section>
    <section id="meteor_swarm">
@@ -2765,7 +2546,7 @@
    </section>
    <section>
     <title>
-     <p>*Морская Мантия (Seamantle) </p>
+     <p>Морская Мантия (Seamantle) </p>
     </title>
     <p><strong>Вызов (создание) [вода] </strong></p>
     <p><sup><strong>Уровень:</strong> Друид 8, Колдун/маг 8 </sup></p>
