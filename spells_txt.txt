@@ -1454,7 +1454,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Огненный Шар (Fireball)#fireball
+Огненный Шар (Fireball)
 </p></title><p><strong>Созидание (Огонь)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -12545,7 +12545,7 @@ XP Стоимость: 250 опыта.</p>
 	Магический <emphasis>Материальный компонент:</emphasis> Яичная скорлупа.</p><p>
 	Магический <emphasis>Фокус:</emphasis> Перчатка из змеиной кожи.</p><p>
 		
-Сокрушительное Отчаяние (Crushing Despair)
+Сокрушительное Отчаяние (Crushing Despair)#crushing_despair
 </p></title><p><strong>Чары (Принуждение) [Влияющее на разум]
 </strong></p><p><sup><strong>Уровень:</strong> Бард 3, Колдун/Маг 4, Ведьма 4
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -16754,7 +16754,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-</p></title><p><strong>Универсальное Превращение (Polymorph Any Object)
+Универсальное Превращение (Polymorph Any Object)#polymorph_any_object
 </p></title><p><strong>Трансмутация (превращение)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 8, Обман 8
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
