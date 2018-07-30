@@ -7515,7 +7515,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Призрачные Чувства (Spectral Senses)
+Призрачные Чувства (Spectral Senses)#spectral_senses
 </p></title><p><strong>Некромантия, </p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Священник 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -12706,7 +12706,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Сопротивление Изгнанию (Resist Turning)
+Сопротивление Изгнанию (Resist Turning)#resist_turning
 </p></title><p><strong>Некромантия, </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Священник 2
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -13560,7 +13560,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Стимуляция Нежити (Undead Alacrity)
+Стимуляция Нежити (Undead Alacrity)#undead_alacrity
 </p></title><p><strong>Некромантия
 </strong></p><p><sup><strong>Уровень:</strong> Священник 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, М
@@ -18923,7 +18923,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Щит для Другого (Shield Other)
+Щит для Другого (Shield Other)#shield_other
 </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Священник 2, Паладин 2, Защита 2
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, F
