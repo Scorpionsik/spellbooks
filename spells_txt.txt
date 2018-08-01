@@ -6466,7 +6466,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Призвать Монстра II (Summon Monster II)
+Призвать Монстра II (Summon Monster II)#summon_monster2
 </p></title><p><strong>Вызов (Призывание) (Смотрите текст)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 2, Священник 2, Колдун/маг 2
 </sup></p><p><sup><strong>Эффект:</strong> Одно и более призванных существ, все в пределах 30 футов.</p>
@@ -6477,7 +6477,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Призвать Монстра III (Summon Monster III)
+Призвать Монстра III (Summon Monster III)#summon_monster3
 </p></title><p><strong>Вызов (Призывание) (Смотрите текст)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 3, Священник 3, Колдун/маг 3
 </sup></p><p><sup><strong>Эффект:</strong> Одно и более призванных существ, все в пределах 30 футов.</p>
@@ -6488,7 +6488,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Призвать Монстра IV (Summon Monster IV)
+Призвать Монстра IV (Summon Monster IV)#summon_monster4
 </p></title><p><strong>Вызов (Призывание) (Смотрите текст)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 4, Священник 4, Колдун/маг 4
 </sup></p><p><sup><strong>Эффект:</strong> Одно и более призванных существ, все в пределах 30 футов.</p>
@@ -6499,7 +6499,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Призвать Монстра V (Summon Monster V)
+Призвать Монстра V (Summon Monster V)#summon_monster5
 </p></title><p><strong>Вызов (Призывание) (Смотрите текст)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 5, Священник 5, Колдун/маг 5
 </sup></p><p><sup><strong>Эффект:</strong> Одно и более призванных существ, все в пределах 30 футов.</p>
