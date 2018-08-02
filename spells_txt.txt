@@ -2846,7 +2846,7 @@ HD	Сила ауры
 </section>
 
 <section><title><p>
-Отражение Заклинаний (Spell Turning)
+Отражение Заклинаний (Spell Turning)#spell_turning
 </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Удача 7, Магия 7, Колдун/маг 7
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
@@ -10965,7 +10965,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Секретное Оружие (Secret Weapon)
+Секретное Оружие (Secret Weapon)#secret_weapon
 </p></title><p><strong>Иллюзия 
 </strong></p><p><sup><strong>Уровень:</strong> Ассасин 1, Бард 1, Тёмный страж 1, Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -11359,7 +11359,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Силок (Snare)
+Силок (Snare)#snare
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Следопыт 2, Друид 3
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -11991,7 +11991,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Слияние с Природой (Commune with Nature)
+Слияние с Природой (Commune with Nature)#commune_with_nature
 	</p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Животные 5, Друид 5
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
