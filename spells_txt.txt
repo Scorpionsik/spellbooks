@@ -7558,7 +7558,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Священное Место (Hallow)
+Священное Место (Hallow)#hallow
 	</p></title><p><strong>Созидание (Добро)
 </strong></p><p><sup><strong>Уровень:</strong> Священник 5, Друид 5
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M, DF
@@ -12846,7 +12846,7 @@ HD	Эффект
 </section>
 
 <section><title><p>
-Удержать Монстра (Hold Monster)
+Удержать Монстра (Hold Monster)#hold_monster
 	</p></title><p><strong>Чары (Принуждение) (Действующее на разум)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 4, Закон 6, Колдун/маг 5
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, M/DF
@@ -12871,7 +12871,7 @@ HD	Эффект
 </section>
 
 <section><title><p>
-Удержать Существо (Hold Person)
+Удержать Существо (Hold Person)#hold_person
 </p></title><p><strong>Чары (Принуждение) (Действующее на разум)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 2, Священник 2, Колдун/маг 3
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, F/DF
@@ -13850,7 +13850,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Усилить Нежить (Augment Undead)
+Усилить Нежить (Augment Undead)#augment_undead
 </p></title><p><strong>Некромантия [Зло]
 </strong></p><p><sup><strong>Уровень:</strong> Священник 3, Колдун/маг 3 
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
