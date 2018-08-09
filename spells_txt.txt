@@ -2187,7 +2187,7 @@ AC: 15 (+3 Ловкость, +2 размер)
 </section>
 
 <section><title><p>
-Порыв Ветра (Gust of Wind)
+Порыв Ветра (Gust of Wind)#gust_of_wind
 </p></title><p><strong>Созидание
 </strong></p><p><sup><strong>Уровень:</strong> Бард 3, Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
@@ -5730,7 +5730,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Размыкание Морденкайнена (Mordenkainen’s Disjunction)
+Размыкание Морденкайнена (Mordenkainen’s Disjunction)#mordenkain_disjunction
 </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Магия 9, Колдун/маг 9
 	</sup></p><p><sup><strong>Компоненты:</strong> V
@@ -5993,7 +5993,7 @@ Hit Dice: 16d8+32 (102 хита)
 </section>
 
 <section><title><p>
-Разящее Око (Eyebite)
+Разящее Око (Eyebite)#eyebite
 	</p></title><p><strong>Трансмутация 
 </strong></p><p><sup><strong>Уровень:</strong> Бард 6, Колдун/маг 6
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -11074,7 +11074,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Танцующие Огни (Dancing Lights)
+Танцующие Огни (Dancing Lights)#dancing_lights
 	Иллюзии (Фантомы)
 </strong></p><p><sup><strong>Уровень:</strong> Бард 0, Колдун/маг 0
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
