@@ -4245,7 +4245,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Статус (Status)
+Статус (Status)#status
 </p></title><p><strong>Прорицание
 </strong></p><p><sup><strong>Уровень:</strong> Священник 4
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
