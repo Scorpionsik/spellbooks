@@ -129,3 +129,12 @@ http://regexpres.narod.ru/calculator.html
 /section>,<section
 /section>\n<section
 
+
+
+сортировка
+
+<title>([\w\W](?!section)){0,9999}<\/title>
+
+<.*?>
+
+    ,\r\n     
