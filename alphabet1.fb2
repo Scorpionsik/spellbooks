@@ -12809,7 +12809,7 @@
     <p><sup><strong>Сопротивление магии:</strong> Да (без вреда)</sup></p>
     <p>Как <strong><a l:href="#cure_light_wounds">лечение легких ран</a></strong>, за исключением того, что лечение серьезных ран восстанавливает 3d8 урона +1 за уровень заклинателя (до +15).</p>
    </section>
-   <section>
+   <section id="cure_critical_wounds">
     <title>
      <p>Лечение Смертельных Ран (Cure Critical Wounds)</p>
     </title>
