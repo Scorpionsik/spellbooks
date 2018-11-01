@@ -2169,7 +2169,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Секретная Страница (Secret Page)
+Секретная Страница (Secret Page)#secret_page
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 3
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, M
