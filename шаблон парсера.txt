@@ -138,3 +138,26 @@ http://regexpres.narod.ru/calculator.html
 <.*?>
 
     ,\r\n     
+
+
+
+справочник
+
+для id в низвании:
+
+<section( id=\"[\w.\-]{0,255}\"){1}>
+
+">,<section id="
+\n
+
+<section id="
+
+">
+
+для id в тексте
+
+(\"\#[\w.\-]{0,255}\"){1}
+
+","#
+\n
+
