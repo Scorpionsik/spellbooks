@@ -121,6 +121,7 @@ https://aminov.net/web/word2html
 -----------------------------------------------------------------------------
 regular!!
 
+===разделить по классам===
 
 http://regexpres.narod.ru/calculator.html
 
@@ -131,7 +132,7 @@ http://regexpres.narod.ru/calculator.html
 
 
 
-сортировка
+===сортировка от а до я===
 
 <title>([\w\W](?!section)){0,9999}<\/title>
 
@@ -141,7 +142,7 @@ http://regexpres.narod.ru/calculator.html
 
 
 
-справочник
+===справочник===
 
 для id в низвании:
 
@@ -150,14 +151,22 @@ http://regexpres.narod.ru/calculator.html
 ">,<section id="
 \n
 
-<section id="
 
-">
-
-для id в тексте
+для id в тексте:
 
 (\"\#[\w.\-]{0,255}\"){1}
 
 ","#
 \n
+
+
+
+
+-------------------------------
+
+#limit_wish
+#wish
+#miracle
+#heal
+#dispel
 

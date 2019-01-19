@@ -402,7 +402,7 @@
 </section>
 
 <section><title><p>
-Разъярить (Enrage)
+Разъярить (Enrage)#enrage
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Бард 1, Колдун/маг 1
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, М
@@ -1398,7 +1398,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Рука Мага (Mage Hand)
+Рука Мага (Mage Hand)#mage_hand
 </p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Бард 0, Колдун/маг 0
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -1634,7 +1634,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Сверкающая Сфера (Scintillating Sphere)
+Сверкающая Сфера (Scintillating Sphere)#scintillating_sphere
 </p></title><p><strong>Созидание (электричество)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, М
@@ -1731,7 +1731,7 @@ d%	Область	Эффект
 </section>
 
 <section><title><p>
-Свеча Трупа (Corpse Candle)
+Свеча Трупа (Corpse Candle)#corpse_candle
 </p></title><p><strong>Некромантия, </p></title><p><strong>Вызов (Созидание)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> S, М
@@ -3629,7 +3629,7 @@ XP Стоимость: 250 опыта.</p>
 <section><title><p>
 Вы можете пытаться управлять нежитью с помощью проверок изгнания. Некоторые типы нежити, вроде личей, не могут быть созданы таким заклинанием. Такая нежить создается другим, очень отличным путем/
    
-Создать Воду (Create Water)
+Создать Воду (Create Water)#create_water
 	</p></title><p><strong>Вызов (Созидание)
 	</strong></p><p><sup><strong>Уровень:</strong> Священник 0, Друид 0, Паладин 1
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -4540,7 +4540,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Стена Излучения (Wall of Radiation)
+Стена Излучения (Wall of Radiation)#wall_of_radiation
 </p></title><p><strong>Созидание [Излучение]
 </strong></p><p><sup><strong>Уровень:</strong> Друид 5
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, DF
@@ -5013,7 +5013,7 @@ XP Стоимость: 250 опыта.</p>
 </section>
 
 <section><title><p>
-Стрела Пламени (Flame Arrow)
+Стрела Пламени (Flame Arrow)#flame_arrow
 	</p></title><p><strong>Вызов (Созидание) (Огонь)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, M
@@ -9288,7 +9288,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Чарующая Ложь (Charming Lie)
+Чарующая Ложь (Charming Lie)#charming_lie
 </p></title><p><strong>Чары (Очарование) [Языковое]
 </strong></p><p><sup><strong>Уровень:</strong> Бард 2, Колдун/маг 2
 </sup></p><p><sup><strong>Компоненты:</strong> V
@@ -9894,7 +9894,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Чума Нежити (Plague of Undead)
+Чума Нежити (Plague of Undead)#plague_of_undead
 </p></title><p><strong>Некромантия
 </strong></p><p><sup><strong>Уровень:</strong> Священник 9, Колдун/маг 9
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, М
@@ -10115,7 +10115,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Щит (Shield)
+Щит (Shield)#shield
 </p></title><p><strong>Ограждение (Энергия)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 1
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -10819,7 +10819,7 @@ Hit Dice	1d12+3 (9 хитов)	2d12+3 (16 хитов)	4d12+3 (29 хитов)
 </section>
 
 <section><title><p>
-Ярость (Rage)
+Ярость (Rage)#rage
 </p></title><p><strong>Чары [Влияющее на разум] 
 </strong></p><p><sup><strong>Уровень:</strong> Священник 3, Ведьма 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S
