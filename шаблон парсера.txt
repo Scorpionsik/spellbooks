@@ -169,4 +169,3 @@ http://regexpres.narod.ru/calculator.html
 #miracle
 #heal
 #dispel
-
