@@ -5054,7 +5054,7 @@ HD: 3d12 (19 hp)
 </section>
 
 <section><title><p>
-Тревога (Alarm)
+Тревога (Alarm)#alarm
 </p></title><p><strong>Ограждение
 </strong></p><p><sup><strong>Уровень:</strong> Бард 1, Следопыт 1, Колдун/маг 1
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, F/DF
@@ -5151,7 +5151,7 @@ HD	Эффект
 </sup></p><p><sup><strong>Сопротивление магии:</strong> Да (безвредно)</sup></p><p>
 Зачарованное этим заклинанием существо получает длинные и мощные руки тролля. Субъект получает бонус +3 к Силе и его досягаемость вырастает на 5 футов.</p><p>
 <emphasis>Материальный компонент:</emphasis> Кусочек плоти тролля или его клок волос </sup></p><p>
-Тромб (Clot)
+Тромб (Clot)#clot
 </p></title><p><strong>Некромантия [Смерть]
 </strong></p><p><sup><strong>Уровень:</strong> Кровь 7, Колдун/маг 7
 </sup></p><p><sup><strong>Компоненты:</strong> V
@@ -6325,7 +6325,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Уменьшение Растений (Diminish Plants)
+Уменьшение Растений (Diminish Plants)#diminish_plants
 	</p></title><p><strong>Трансмутация
 </strong></p><p><sup><strong>Уровень:</strong> Друид 3, Следопыт 3
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, DF

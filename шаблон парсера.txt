@@ -174,3 +174,6 @@ http://regexpres.narod.ru/calculator.html
 #miracle
 #heal
 #dispel
+#remove_curse
+#antimagic_field
+#rem_disease
