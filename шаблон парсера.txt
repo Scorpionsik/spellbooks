@@ -80,7 +80,7 @@ https://aminov.net/web/word2html
 Шаблоны для ручного редактирования
 
 
-</section>
+</p></section>
 <section><title><p>
 
 </sup></p><p>
