@@ -141,7 +141,6 @@ http://regexpres.narod.ru/calculator.html
     ,\r\n     
 
 
-
 ===справочник===
 
 для id в низвании:
@@ -159,6 +158,11 @@ http://regexpres.narod.ru/calculator.html
 ","#
 \n
 
+затем дл регулярки:
+ \(.*?\)
+
+\r\n
+)|(
 
 
 
