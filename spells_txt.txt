@@ -7903,7 +7903,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Чёрные Щупальца Эварда (Evard’s Black Tentacles)
+Чёрные Щупальца Эварда (Evard’s Black Tentacles)#evard_black_tentacles
 	</p></title><p><strong>Вызов (Созидание)
 	</strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 4
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, M
