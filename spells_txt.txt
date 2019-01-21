@@ -977,7 +977,7 @@ HD: 3d12 (19 hp)
 </section>
 
 <section><title><p>
-Теневой Прыжок (Shadow Jump)
+Теневой Прыжок (Shadow Jump)#shadow_jump
 Призыв (Телепортация)
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 2
 </sup></p><p><sup><strong>Компоненты:</strong> V
@@ -3397,7 +3397,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Фокусы (Prestidigitation)
+Фокусы (Prestidigitation)#prestidigitation
 </p></title><p><strong>Универсальное
 </strong></p><p><sup><strong>Уровень:</strong> Бард 0, Колдун/маг 0
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
@@ -3505,7 +3505,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Хватающая рука Бигби (Bigby’s Grasping Hand)
+Хватающая рука Бигби (Bigby’s Grasping Hand)#bigby_grasping_hand
 	</p></title><p><strong>Созидание
 	</strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 7, Сила 7
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, F/DF</sup></p><p>
