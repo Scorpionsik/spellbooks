@@ -1608,7 +1608,7 @@ HD	Эффект
 </section>
 
 <section><title><p>
-Убить Живое (Slay Living)
+Убить Живое (Slay Living)#slay_living
 </p></title><p><strong>Некромантия (Смерть)
 </strong></p><p><sup><strong>Уровень:</strong> Священник 5, Смерть 5
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S
