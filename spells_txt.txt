@@ -588,7 +588,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Узы (Binding)
+Узы (Binding)#binding
 </p></title><p><strong>Чары (Принуждение) (Действующее на разум)
 	</strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 8
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S, M
