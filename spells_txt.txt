@@ -2572,7 +2572,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Умеренное Предостережение Нибора (Nybor’s Mild Admonishment)
+Умеренное Предостережение Нибора (Nybor’s Mild Admonishment)#nybor_mild_admonishment
 </p></title><p><strong>Чары (Принуждение) [Влияющее на разум]
 </strong></p><p><sup><strong>Уровень:</strong> Колдун/маг 3
 </sup></p><p><sup><strong>Компоненты:</strong> V, S, F
@@ -2706,7 +2706,7 @@ CR	Сила
 </section>
 
 <section><title><p>
-Управлять Ветрами (Control Winds)
+Управлять Ветрами (Control Winds)#control_winds
 	</p></title><p><strong>Трансмутация
 	</strong></p><p><sup><strong>Уровень:</strong> Воздух 5, Друид 5
 	</sup></p><p><sup><strong>Компоненты:</strong> V, S

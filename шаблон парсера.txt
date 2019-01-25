@@ -177,3 +177,8 @@ http://regexpres.narod.ru/calculator.html
 #remove_curse
 #antimagic_field
 #rem_disease
+
+
+#resist_elements сопротивляемость стихиям
+#endure_elements устойчивость к стихиям
+#protection_from_elem защита от стихий
