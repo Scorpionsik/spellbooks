@@ -188,6 +188,7 @@ http://regexpres.narod.ru/calculator.html
 #antimagic_field
 #rem_disease
 #disintegrate
+#break_ench
 
 #permanency
 
