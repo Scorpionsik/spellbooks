@@ -187,7 +187,9 @@ http://regexpres.narod.ru/calculator.html
 #remove_curse
 #antimagic_field
 #rem_disease
+#disintegrate
 
+#permanency
 
 #resist_elements сопротивляемость стихиям
 #endure_elements устойчивость к стихиям
