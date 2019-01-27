@@ -95,7 +95,7 @@ https://aminov.net/web/word2html
 
 </sup></p><p>
 
-<p>
+</p><p>
 
 
 <emphasis>
@@ -182,7 +182,7 @@ http://regexpres.narod.ru/calculator.html
 
 Поиск в док
 
-<p><b>([А-Яа-яё ]){1,80}(<\/b><b>){0,1} \(
+(<p>){0,1}<b>([А-Яа-яё ]){1,80}(<\/b><b>){0,1} \(
 
 <.*?>
 
