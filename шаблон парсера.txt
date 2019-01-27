@@ -141,7 +141,7 @@ http://regexpres.narod.ru/calculator.html
 /section>,<section
 /section>\n<section
 
-
+/section>\r\n   <p>,</p>\r\n   <section
 
 ===сортировка от а до я===
 
@@ -178,6 +178,16 @@ http://regexpres.narod.ru/calculator.html
 
 
 -------------------------------
+
+Поиск в док
+
+<p><b>([А-Яа-яё ]){1,80}(<\/b><b>){0,1} \(
+
+<.*?>
+
+(,
+\n
+---------------------------------
 
 #limit_wish
 #wish
