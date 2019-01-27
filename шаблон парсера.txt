@@ -142,6 +142,7 @@ http://regexpres.narod.ru/calculator.html
 /section>\n<section
 
 /section>\r\n   <p>,</p>\r\n   <section
+/section>\n<section
 
 ===сортировка от а до я===
 
