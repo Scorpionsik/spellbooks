@@ -206,3 +206,5 @@ http://regexpres.narod.ru/calculator.html
 #resist_elements сопротивляемость стихиям
 #endure_elements устойчивость к стихиям
 #protection_from_elem защита от стихий
+
+Паладин 3
