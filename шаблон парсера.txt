@@ -136,7 +136,7 @@ http://regexpres.narod.ru/calculator.html
 ===разделить по классам===
 
 
-(<section( id=\"[\w.\-]{0,255}\"){0,1}>){1}([\w\W](?!section)){0,9999}((?!\()”ниверсальное(?!\)))([\w\W](?!section)){0,9999}(маг 1)([\w\W](?!section)){0,999999}(<\/section>){1}
+(<section( id=\"[\w.\-]{0,255}\"){0,1}>){1}([\w\W](?!section)){0,9999}()([\w\W](?!section)){0,9999}()([\w\W](?!section)){0,999999}(<\/section>){1}
 
 /section>,<section
 /section>\n<section
@@ -177,6 +177,15 @@ http://regexpres.narod.ru/calculator.html
 )|(
 
 
+
+<title>\r\n     <p>
+<title>\r\n     <p>***
+
+</p>\r\n    </title>
+***</p>\r\n    </title>
+
+/section>,<section
+/section>\n<section
 
 -------------------------------
 
