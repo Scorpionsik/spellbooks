@@ -149,7 +149,7 @@
     <p><sup><strong>Сопротивление магии:</strong> Да</sup></p>
     <p>Вы можете зажечь ничейный мизерный легковоспламеняющийся предмет. Это действует, как если бы вы применили огниво, за исключением того, что вы можете использовать искру при любой погоде и это занимает существенно меньше времени, чем обычно.</p>
    </section>
-   <section>
+   <section id="cure_minor_wounds">
     <title>
      <p>Лечение Мелких Ран (Cure Minor Wounds)</p>
     </title>
@@ -7732,7 +7732,7 @@
    <title>
     <p>5 уровень</p>
    </title>
-   <section>
+   <section id="greater_ethereal_projection">
     <title>
      <p>Большая Эфирная Проекция (Greater Ethereal Projection)</p>
     </title>
@@ -8065,7 +8065,7 @@
     <p>Эффект заклинания, привязанный к лесному убежищу, может быть: <strong><a l:href="#aid">помощь</a></strong>, <strong><a l:href="#bless">благословление</a></strong>, <strong><a l:href="#delay_poison">замедление яда</a></strong>, <strong><a l:href="#detect_evil">обнаружить зло</a></strong>, <strong><a l:href="#detect_magic">обнаружить магию</a></strong>, <a l:href="#detect_poison"><strong>обнаружить яд</strong></a>, <strong><a l:href="#dimensional_anchor">планарный якорь</a></strong>, <strong><a l:href="#discern_lies">распознать ложь</a></strong>, <strong><a l:href="#dispel_evil">рассеивание магии</a></strong>, <strong><a l:href="#endure_elements">устойчивость к стихиям</a></strong>, <strong><a l:href="#entangle">опутывание</a></strong>, <strong><a l:href="#fairy_fire">огонь фей</a></strong>, <strong><a l:href="#fogcloud">облако тумана</a></strong>, <strong><a l:href="#free_move">свобода перемещения</a></strong>, <strong><a l:href="#invise_purge">очищение от невидимости</a></strong>, <strong><a l:href="#magic_fang">волшебный клык</a></strong>, <strong><a l:href="#obscuring_mist">пелена</a></strong>, <strong><a l:href="#protection_from_elem">защита от стихий</a></strong>, <strong><a l:href="#purify_food_and_drink">очищение пищи и питья</a></strong>, <strong><a l:href="#silence">тишина</a></strong>, <strong><a l:href="#speak_with_animals">говорить с животными</a></strong>, <strong><a l:href="#speak_with_plants">говорить с растениями</a></strong>, <strong><a l:href="#tongues">языки</a></strong> и <strong><a l:href="#zone_truth">зона правды</a></strong>.</p>
     <p><emphasis>Материальный компонент:</emphasis> Редкие листья, травы и благовония, стоящие <strong>не менее 500 золотых</strong>, плюс <strong>1000 золотых за уровень заклинания</strong>, привязанного к лесному убежищу.</p>
    </section>
-   <section>
+   <section id="cure_critical_wounds">
     <title>
      <p>Лечение Смертельных Ран (Cure Critical Wounds)</p>
     </title>
