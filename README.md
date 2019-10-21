@@ -1,4 +1,4 @@
-**Shamarra spellbooks**
+**Shamarra`s world spells**
 
 The essence of the project: convert \*.doc files with spells in \*.fb2 format (Dungeons and Dragons 3.5 system, homerule).
 
